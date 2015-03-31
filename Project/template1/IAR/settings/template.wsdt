@@ -19,16 +19,16 @@
         
         
         
-      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>677</ColumnWidth1><ColumnWidth2>180</ColumnWidth2><ColumnWidth3>45</ColumnWidth3></Build>
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>677</ColumnWidth1><ColumnWidth2>251</ColumnWidth2><ColumnWidth3>45</ColumnWidth3></Build>
       <Debug-Log>
-        <ColumnWidth0>20</ColumnWidth0>
-        <ColumnWidth1>1232</ColumnWidth1>
-      </Debug-Log>
-    <TerminalIO/></Static>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1232</ColumnWidth1></Debug-Log>
+    <TerminalIO/><Find-All-Declarations><ColumnWidth0>444</ColumnWidth0><ColumnWidth1>63</ColumnWidth1><ColumnWidth2>761</ColumnWidth2></Find-All-Declarations></Static>
     <Windows>
       
       
-    <Wnd1>
+    <Wnd0>
         <Tabs>
           <Tab>
             <Identity>TabID-9089-15473</Identity>
@@ -36,11 +36,11 @@
             <Factory>Workspace</Factory>
             <Session>
               
-            <NodeDict><ExpandedNode>template</ExpandedNode><ExpandedNode>template/Doc</ExpandedNode><ExpandedNode>template/User</ExpandedNode></NodeDict></Session>
+            <NodeDict><ExpandedNode>template</ExpandedNode><ExpandedNode>template/Doc</ExpandedNode><ExpandedNode>template/HardWare</ExpandedNode></NodeDict></Session>
           </Tab>
         </Tabs>
         
-      <SelectedTab>0</SelectedTab></Wnd1><Wnd3>
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd3>
         <Tabs>
           <Tab>
             <Identity>TabID-30796-23663</Identity>
@@ -54,7 +54,7 @@
             <Factory>Debug-Log</Factory>
             <Session/>
           </Tab>
-        </Tabs>
+        <Tab><Identity>TabID-31969-2191</Identity><TabName>Declarations</TabName><Factory>Find-All-Declarations</Factory><Session/></Tab></Tabs>
         
       <SelectedTab>0</SelectedTab></Wnd3></Windows>
     <Editor>
@@ -62,14 +62,14 @@
       
       
       
-    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>8287</YPos2><SelStart2>633267</SelStart2><SelEnd2>633267</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\head.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\sys\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>33</YPos2><SelStart2>2166</SelStart2><SelEnd2>2166</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>21</SelStart2><SelEnd2>21</SelEnd2></Tab><ActiveTab>3</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\sys\usart.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>26</YPos2><SelStart2>1323</SelStart2><SelEnd2>1323</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\IAR Systems\Embedded Workbench 7.0\arm\inc\c\ystdio.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>14</YPos2><SelStart2>474</SelStart2><SelEnd2>474</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>21</SelStart2><SelEnd2>21</SelEnd2></Tab><ActiveTab>2</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
     <Positions>
       
       
       
       
       
-    <Top><Row0><Sizes><Toolbar-01125630><key>iaridepm.enu1</key></Toolbar-01125630></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>482</Bottom><Right>274</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>154919</sizeHorzCX><sizeHorzCY>275862</sizeHorzCY><sizeVertCX>213788</sizeVertCX><sizeVertCY>667586</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1293</Right><x>-2</x><y>-2</y><xscreen>1295</xscreen><yscreen>200</yscreen><sizeHorzCX>1003098</sizeHorzCX><sizeHorzCY>275862</sizeHorzCY><sizeVertCX>154919</sizeVertCX><sizeVertCY>275862</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+    <Top><Row0><Sizes><Toolbar-02E477D0><key>iaridepm.enu1</key></Toolbar-02E477D0></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>482</Bottom><Right>274</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>154919</sizeHorzCX><sizeHorzCY>275862</sizeHorzCY><sizeVertCX>213788</sizeVertCX><sizeVertCY>667586</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1293</Right><x>-2</x><y>-2</y><xscreen>1295</xscreen><yscreen>200</yscreen><sizeHorzCX>1003098</sizeHorzCX><sizeHorzCY>275862</sizeHorzCY><sizeVertCX>154919</sizeVertCX><sizeVertCY>275862</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
   </Desktop>
 </Workspace>
 

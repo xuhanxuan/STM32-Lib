@@ -11,3 +11,9 @@
 .\out\main.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
 .\out\main.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
 .\out\main.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\out\main.o: ..\sys\sys.h
+.\out\main.o: ..\sys\delay.h
+.\out\main.o: ..\sys\usart.h
+.\out\main.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\out\main.o: ..\src\oled.h
+.\out\main.o: ..\src\head.h

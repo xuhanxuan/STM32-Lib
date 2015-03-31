@@ -1,0 +1,15 @@
+.\out\usart.o: ..\sys\usart.c
+.\out\usart.o: ..\sys\sys.h
+.\out\usart.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h
+.\out\usart.o: ..\..\..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\out\usart.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\out\usart.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h
+.\out\usart.o: ..\sys\stm32f10x_conf.h
+.\out\usart.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h
+.\out\usart.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h
+.\out\usart.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\out\usart.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\out\usart.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\out\usart.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\out\usart.o: ..\sys\usart.h
+.\out\usart.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
