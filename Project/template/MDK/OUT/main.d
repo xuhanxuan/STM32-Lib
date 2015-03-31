@@ -1,0 +1,13 @@
+.\out\main.o: ..\src\main.c
+.\out\main.o: ..\src\head.h
+.\out\main.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h
+.\out\main.o: ..\..\..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\out\main.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\out\main.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h
+.\out\main.o: ..\sys\stm32f10x_conf.h
+.\out\main.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h
+.\out\main.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h
+.\out\main.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\out\main.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\out\main.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\out\main.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
